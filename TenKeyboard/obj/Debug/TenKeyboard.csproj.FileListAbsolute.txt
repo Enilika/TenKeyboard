@@ -1,0 +1,10 @@
+C:\Users\s142709\source\repos\TenKeyboard\bin\Debug\TenKeyboard.exe.config
+C:\Users\s142709\source\repos\TenKeyboard\bin\Debug\TenKeyboard.exe
+C:\Users\s142709\source\repos\TenKeyboard\bin\Debug\TenKeyboard.pdb
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.csproj.AssemblyReference.cache
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.Properties.Resources.resources
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.csproj.GenerateResource.cache
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.exe
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\TenKeyboard.pdb
+C:\Users\s142709\source\repos\TenKeyboard\obj\Debug\NumpadToAlpha.MainForm.resources
